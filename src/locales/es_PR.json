@@ -251,7 +251,7 @@
   },
   "screen_titles": {
     "callback": "Solicitar que se devuelva la llamada",
-    "debug": "Eliminar errores",
+    "debug": "Depurar",
     "exposure_history": "Historial de exposición",
     "exposures": "Exposiciones",
     "how_the_app_works": "¿Cómo funciona la aplicación?",
